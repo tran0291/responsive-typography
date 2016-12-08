@@ -43,6 +43,10 @@ article > p:last-child {
   border-bottom: 1px solid #999;
 }
 
+article > p:first-child {
+  margin-top: 20rem;
+}
+
 blockquote {
   max-width: 24em;
   color: #555;
